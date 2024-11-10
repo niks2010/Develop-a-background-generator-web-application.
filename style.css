@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    transition: background 0.5s ease-in-out;
+    margin: 0;
+    height: 100vh;
+  }
+  
+  #gradient-generator {
+    padding-top: 20px;
+  }
+  
+  input[type="color"] {
+    margin: 10px;
+  }
+  
